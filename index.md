@@ -23,4 +23,13 @@ knit        : slidify::knit2slides
 
 Test slide 2
 
+--- .class #id
 
+##Question 1
+What is 1 + 1 ?
+1. 1
+2. _2_
+3. 3
+4. 4
+***.hint Think better!
+***. explanation Use your fingers!
